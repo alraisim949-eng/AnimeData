@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AnimeProMix" parent="@style/Theme.Leanback" />
+</resources>
