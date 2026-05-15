@@ -1,0 +1,30 @@
+{
+  "trending": [
+    {
+      "id": 1,
+      "title": "Solo Leveling",
+      "description": "In a world of monsters, a weak hunter gains a mysterious system to become the strongest.",
+      "image": "https://m.media-amazon.com/images/M/MV5BODViZWRhMDAtZGVhOS00NDZkLThjYjItNDU5NGQ5ZTM2ZTEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Attack on Titan",
+      "description": "Humans fight for survival against giant man-eating humanoids called Titans.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00NjQwLTliMjMtYWM1YjAzMzgzOTkwXkEyXkFqcGdeQXVyNTkwNzYyODM@._V1_.jpg"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 3,
+      "title": "Demon Slayer",
+      "description": "Tanjiro sets out on a dangerous journey to find a cure and turn his sister back into a human.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTlhY2ItMDpAltljMzc4ZDUxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Naruto Shippuden",
+      "description": "Naruto Uzumaki wants to become the Hokage, the leader of his village, to gain everyone's respect.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDU1MDUyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    }
+  ]
+}
